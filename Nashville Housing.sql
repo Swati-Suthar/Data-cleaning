@@ -147,7 +147,7 @@ From PortfolioProject.dbo.NashvilleHousing
 
 ---------------------------------------------------------------------------------------------------------
 
--- Delete Unused Columns
+-- Deleting Unused Columns
 
 
 
